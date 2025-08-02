@@ -38,7 +38,10 @@ When working with multidimensional datasets, high dimensionality complicates vis
 - Clustering performance metrics improved significantly:  
   - Average Silhouette Score: 0.4439  
   - Davies-Bouldin Index: 0.8787  
-  - Calinski-Harabasz Index: 4401.18  
+  - Calinski-Harabasz Index: 4401.18
+ 
+<img width="665" height="461" alt="image" src="https://github.com/user-attachments/assets/dbfb8709-4c0e-403f-9d59-b57d7774356e" />
+
 
 ### 4.3. K-Means Clustering with UMAP  
 - UMAP was used for dimensionality reduction to 2D, preserving similarity relationships.  
@@ -47,7 +50,10 @@ When working with multidimensional datasets, high dimensionality complicates vis
 - Clustering performance further improved:  
   - Average Silhouette Score: 0.5662  
   - Davies-Bouldin Index: 0.8109  
-  - Calinski-Harabasz Index: 7774.20  
+  - Calinski-Harabasz Index: 7774.20
+
+<img width="614" height="445" alt="image" src="https://github.com/user-attachments/assets/a8fdb5e7-6bf5-43fb-8043-3dc938aea755" />
+
 
 **Summary:** Dimensionality reduction via t-SNE and UMAP markedly improved clustering performance compared to raw data, with UMAP outperforming t-SNE.
 
@@ -60,7 +66,9 @@ When working with multidimensional datasets, high dimensionality complicates vis
 - Clustering performance metrics improved substantially:  
   - Average Silhouette Score: 0.6934 (indicating clear separation)  
   - Davies-Bouldin Index: 0.4632 (well-separated clusters)  
-  - Calinski-Harabasz Index: 9818.83 (strong cluster separation and tightness)  
+  - Calinski-Harabasz Index: 9818.83 (strong cluster separation and tightness)
+ 
+<img width="569" height="359" alt="image" src="https://github.com/user-attachments/assets/f516fb2d-7c53-4056-ad4e-16760ef43aa4" />
 
 ---
 
