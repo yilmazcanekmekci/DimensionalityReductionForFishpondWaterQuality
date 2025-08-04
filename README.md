@@ -6,9 +6,7 @@ When working with multidimensional datasets, high dimensionality complicates vis
 ---
 
 ## 2. Dataset  
-- The dataset contains 4300 samples and 14 input features related to water quality in fish ponds.  
-- No missing data were found.  
-- The `Water.Quality` column was removed since it was not used as an independent variable.  
+- The dataset contains 4300 samples and 14 input features related to water quality in fish ponds.    
 - All features were standardized to normalize and scale data for effective analysis.
 
 ---
@@ -86,4 +84,4 @@ This study examined the effects of dimensionality reduction and outlier removal 
 ---
 
 ## Contact  
-For questions or contributions, please open an issue or contact [your-email@example.com].
+For questions or contributions, please open an issue or contact [yilmazcanekmekci@gmail.com].
